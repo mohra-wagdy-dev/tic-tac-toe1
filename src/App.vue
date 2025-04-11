@@ -1,7 +1,7 @@
 <template>
   <div id="App">
     <h1>Tic-Tac-Toe Game</h1>
-    <h2>hi kirolos</h2>
+    <h2>hi kirolos nabil</h2>
     <BaseGrid />
   </div>
 </template>
